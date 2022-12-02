@@ -55,7 +55,7 @@ The Bar Graph shows the demand of bike rides during the day. The peak is between
 This bubble graph shows the number of trips per Bike ID. The data shows that while there are a few bikes that are used very oftern and will need more maintanance, most bikes aren't used as frequently and will need fewer costly repairs.
 
 ## Summary
-The Bike Share Story provides a lot of useful information that investors can easily understand. We are able to see the Demand, Maintanance, and Customer Base. Two suggested visualizations would be to add Bike rides during the Holidays, and During the harsh winter months. [link to dashboard] https://public.tableau.com/app/profile/logan.knutson/viz/BikeRentalStory_16700048121990/BikeRentalStory?publish=yes
+The Bike Share Story provides a lot of useful information that investors can easily understand. We are able to see the Demand, Maintanance, and Customer Base. Two suggested visualizations would be to add Bike rides during the Holidays, and During the harsh winter months. [link to dashboard] (https://public.tableau.com/app/profile/logan.knutson/viz/BikeRentalStory_16700048121990/BikeRentalStory?publish=yes)
 
 
 
