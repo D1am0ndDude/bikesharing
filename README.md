@@ -1,6 +1,5 @@
 ## Bike Sharing Story using Tableau
 
-![Front Page](https://user-images.githubusercontent.com/46943357/205359368-f03c5146-3131-48c8-b1fb-20043e608c2b.PNG)
 
 # Overveiw of the Project
 The Purpose of the Bike Sharing Tableau Story is to provide interactive data for investors to see the data from a Bike Share Company in New York and why opening a company in Des Moines is an amazing idea.
